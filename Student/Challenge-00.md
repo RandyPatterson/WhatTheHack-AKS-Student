@@ -35,3 +35,5 @@ cd .\WhatTheHack-AKS-Student\
 1. You have a bash shell at your disposal (WSL, Mac, Linux or Azure Cloud Shell)
 1. Running `az --version` shows the version of your Azure CLI
 1. Visual Studio Code is installed.
+
+From Here you can move on to the next challenge, [Challenge 1A](./Challenge-01A.md)
