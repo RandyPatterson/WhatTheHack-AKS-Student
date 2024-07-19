@@ -25,3 +25,6 @@ In this challenge we will be creating and setting up a new Azure Container Regis
 1. Verify that you have provisioned a new Azure Container Registry
 1. Verify that you have deployed your container images to the registry.
 1. Verify that you can log into the registry and see all images.
+
+### After your Coach verifies your success criteria continue to [Challenge 03](./Challenge-03.md)
+

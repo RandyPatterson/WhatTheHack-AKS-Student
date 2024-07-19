@@ -19,7 +19,7 @@ First, Launch your Lab environment using the instructions provided by the coache
 ### Student Resources
 Download Git repository containing the student resources for this workshop.
 
-1. Launch the Windows PowerShell terminal by clikcing on the icon in the bottom left of the screen.
+1. Launch the Windows PowerShell terminal by clicking on the icon in the bottom left of the screen.
 
 ![](./content/ch-00-01.png)
 in the PowerShell Terminal type the following commands
@@ -32,8 +32,10 @@ cd .\WhatTheHack-AKS-Student\
 
 ## Success Criteria
 
-1. You have a bash shell at your disposal (WSL, Mac, Linux or Azure Cloud Shell)
+1. You have the PowerShell Terminal at your disposal
 1. Running `az --version` shows the version of your Azure CLI
 1. Visual Studio Code is installed.
+1. You have cloned the student resources repository
+
 
 From Here you can move on to the next challenge, [Challenge 1A](./Challenge-01A.md)
