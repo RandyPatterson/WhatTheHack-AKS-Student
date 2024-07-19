@@ -10,30 +10,25 @@ A smart cloud solution architect always has the right tools in their toolbox.
 
 ## Description
 
-In this challenge we'll be setting up all the tools we will need to complete our challenges.
+First, Launch your Lab environment using the instructions provided by the coaches. When your Lab VM has started it should look similar to this:
 
-### Install Cloud Tools on Your Workstation
+![](./content/ch-00-03.png)
 
-- Install the recommended toolset:
-    - Windows Subsystem for Linux
-    - Azure CLI 
-        - Update to the latest
-        - Must be at least version 2.7.x
-        - **NOTE for Windows users:** Install Azure CLI on Windows Subsystem for Linux following the instructions for the Linux distribution you are using in WSL.
-        - **NOTE:** If you’re running into issues running Azure CLI command on Windows, disable Global Protect (VPN)
-    - Visual Studio Code
-- **NOTE:** You can start the next challenge even if this one is still running by using the Azure Cloud Shell.
-- **Tip:** You can complete almost all of the challenges with the Azure Cloud Shell!  But be a good cloud architect and make sure you have experience installing the tools locally.
+
 
 ### Student Resources
+Download Git repository containing the student resources for this workshop.
 
-Your coach will provide you with a `Resources.zip` file that contains resource files you will use to complete some of the challenges for this hack.  
+1. Launch the Windows PowerShell terminal by clikcing on the icon in the bottom left of the screen.
 
-You may also download the file here: ['Resources.zip'](https://aka.ms/wth/IntroToK8SResources)
-
-If you have installed all of the tools listed above on your local workstation, you should unpack the `Resources.zip` file there too.
-
-If you plan to use the Azure Cloud Shell, you should upload the `Resources.zip` file to your cloud shell first and then unpack it there.
+![](./content/ch-00-01.png)
+in the PowerShell Terminal type the following commands
+```PowerShell
+cd \
+git clone https://github.com/RandyPatterson/WhatTheHack-AKS-Student.git
+cd .\WhatTheHack-AKS-Student\
+```
+![](./content/ch-00-02.png)
 
 ## Success Criteria
 
