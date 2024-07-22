@@ -21,7 +21,7 @@ You will use this VM during this challenge to perform several tasks to prepare t
 From the PowerShell Terminal on the Lab VM, navigate to the FabMedical application folder and run the application to see how it works.
 
 ```PowerShell
-cd \WhatTheHack-AKS-Student\Student\Resorces\Challange-01
+cd \WhatTheHack-AKS-Student\Student\Resources\Challenge-01
 ```
 
 
